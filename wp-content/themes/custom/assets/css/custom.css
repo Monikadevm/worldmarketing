@@ -1,0 +1,19 @@
+.nv { padding: 4px 0px;}
+
+h1.entry-title {
+    display: none;
+}
+.nv_m {
+    text-align: right;
+}
+.logo_p a {
+   line-height: 52px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+}
+header .wp-megamenu a {
+      text-transform: uppercase;
+}
+a:hover {text-decoration:none !important;}
+

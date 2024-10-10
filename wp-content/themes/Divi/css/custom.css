@@ -1,0 +1,518 @@
+@font-face {
+    font-family: 'itc_erasdemi';
+    src: url('erasitcbybt-demi-webfont.woff2') format('woff2'),
+         url('erasitcbybt-demi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h3.mkng {
+    font-weight: bold;
+    font-family: arial;
+}
+
+h3.mkng span {
+    padding-left: 10px;
+}
+
+.hm_pg_1 h3 {
+    font-size: 57px;
+    color: #fff;
+}
+.st_wd b {
+	font-weight: 800;
+    font-style: normal;
+    color: #ffba12;
+    font-size: 27px;
+}
+p.st_wd {
+    font-size: 24px;
+    color: #fff;
+    font-style: italic;
+    line-height: 27px;
+}
+.hm_pg_1 {
+    padding: 0px !important;
+}
+.stry_w {
+    padding: 10px 0px;
+}
+h3.ut_yr {
+    padding-left: 62px;
+	font-weight:normal;
+	font-family:arial;
+}
+
+h3.ut_yr strong{
+	font-weight:800;
+}
+.lts_s p {
+    color: #fff;
+    font-size: 24px;
+    padding-bottom: 6px;
+}
+p.gt_mr {
+    padding-left: 40px;
+}
+.lts_s p {
+    color: #fff;
+    font-size: 24px;
+    padding-bottom: 6px;
+}
+
+header#main-header {
+    background: #000;
+}
+p.lt_us {
+    padding-top: 35px;
+}
+h4.cl_mn {
+    font-weight: 600;
+    font-size: 26px;
+    color: #a5e9fc;
+}
+.moon_prt {
+    padding-top: 0px !important;
+}
+.moon_prt {
+    height: 910px;
+    padding-top: 0px;
+}
+.moon_prt a {
+    top: 68px;
+    position: relative;
+    text-transform: capitalize;
+    color: red;
+    font-size: 34px;
+    font-weight: 700;
+     font-family: itc_erasdemi;
+}
+.book_im img {
+    width: 52%;
+}
+.book_im h3 {
+	margin-top: 12px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #b0e6ff;
+    text-transform: uppercase;
+}
+.book_im p {
+    color: #ff9602;
+    font-size: 25px;
+    font-weight: 600;
+}
+.book_im h5 a {
+    margin-top: 15px;
+    float: left;
+    font-weight: 100;
+    font-size: 25px;
+    font-style: italic;
+    color: #aee7fb;
+}
+div#footer-bottom {
+    background: #000;
+}
+div#footer-info {
+    width: 100%;
+}
+p.cpy_rt {
+    color: #b0e6ff;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+h4.free_mr {
+    font-weight: 800;
+    color: #ff990f;
+    font-size: 24px;
+    position: relative;
+    left: 16%;
+    top: 18px;
+	float: left;
+    width: 80%;
+}
+.goal_bt, .modif, .logline {
+    padding: 78px 0px !important;
+}
+
+.hero_theme {
+    padding: 5px 0px 60px !important;
+}
+.moon-1 a, .moon-3 a {
+    position: relative;
+    top: 72px;
+}
+.hero_theme .et_pb_module{
+    background-image: url(https://kangrawines.com/dev/worldmarketing/wp-content/uploads/2021/06/12344.png);
+    width: 179px;
+    height: 175px;
+    position: relative;
+    left: 73px;
+    top: -93px;
+} 
+.moon4, .moon5, .moon6, .moon7, .moon8, .moon9 {
+    position: absolute;
+  width: 179px;
+    height: 175px;
+  }
+.moon5, .moon7, .moon9 {
+    top: -207px !important;
+    right: -96%;
+}
+.moon4 {
+    top: -207px !important;
+}
+.moon3 {
+    left: -86px !important;
+    top: -41px !important;
+}
+.moon4, .moon6, .moon8 {
+    left: 15%;
+}
+.moon1 {
+    left: 71% !important;
+    top: -41px !important;
+}
+.moon6, .moon7 {
+    top: -145px !IMPORTANT;
+}
+.moon8, .moon9 {
+    top: -110px !IMPORTANT;
+}
+.moon9 {
+	right: -80%;}
+.moon8 {
+    left: 30%;
+}
+.lg-line p {
+    font-size: 16px;
+    color: #000;
+}
+.lg-line ul li {
+    font-size: 16px !important;
+}
+.lg-line h2 {
+	width: 85%;
+    font-size: 48px;
+    font-weight: 700;
+}
+.lg-line h4 {
+    width: 74%;
+    font-size: 24px;
+    color: #000;
+    font-style: italic;
+    line-height: 30px;
+} 
+.lg_line1 {
+    padding: 0px !important;
+}
+.lg_line1 h3 {
+    font-size: 32px;
+    font-weight: 600;
+}
+.lg_line1 li {
+	color:#000;
+    font-size: 16px;
+}
+.lg_line1 img {
+    width: 60%;
+}
+.blok_2 {
+    padding: 0px !important;
+}
+.lg_line1 p {
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+}
+.bk_img_log img {
+    width: 75%;
+}
+.dw-ebk h2 a {
+    margin-top: 70px;
+    margin-bottom: 10px;
+    font-size: 36px;
+    font-weight: 700;
+    float: left;
+    width: 100%;
+	 color: #f00;
+}
+.dw-ebk h3 {
+    padding-left: 60px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #000;
+    font-style: italic;
+}
+.bk_log_s4 img {
+    position: relative;
+    top: -140px;
+}
+.pic_100 img {
+    position: relative;
+    width: 65%;
+    right: 30px;
+    top: -50px;
+}
+.bk_log_s4 h2 {
+    position: absolute;
+    font-size: 36px;
+    font-weight: 800;
+    color: #000;
+    left: -25%;
+}
+.blck_txt {
+    padding: 0px !important;
+}
+.blck_txt p {
+    position: absolute;
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+    top: -130px;
+}
+.lg_line1 h3, .lg_line1 h2 {
+    color: #000;
+}
+.lg-line .et_pb_row.et_pb_row_0.et_pb_row_1-4_3-4 {
+    padding: 0px !important; 
+}
+.dw_bk_log a {
+    font-style: italic;
+    font-size: 19px;
+    font-weight: 700;
+    padding-left: 10px;
+    margin-top: -22px;
+    position: absolute;
+    color: #f00;
+}
+.pp_frm input {
+    border: 2px solid #ff6d00 !important;
+    margin-bottom: 10px !important;
+    width: 100% !important;
+    padding: 8px 10px !important;
+    border-radius: 5px ;
+}
+.pp_frm {
+    margin: 0px auto;
+    width: 80%;
+}
+.pp_frm .wpcf7-submit {
+    border: none !important;
+    background: #000;
+    color: #fff;
+    font-size: 18px;
+    width: 22% !important;
+    text-transform: uppercase;
+}
+.download_pop h3 {
+    font-size: 32px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #000;
+}
+.download_pop p {
+    font-size: 16px;
+    color: #000;
+    font-weight: 600;
+	margin-bottom: 0px !important;
+    padding-top: 10px;
+}
+div#paoc-modal-1 {
+    border: 4px solid #000;
+    border-radius: 4px;
+}
+.order-gh h2 {
+    text-align: center;
+    font-weight: 700;
+    border: 2px solid #000;
+    padding-top: 10px;
+}
+.order-gh h5 {
+    border: 1px solid;
+    padding: 10px;
+    line-height: 21px;
+}
+.hundd img {
+    width: 64%;
+  
+}
+.hundd h3 {
+    margin-top: 51px;
+}
+.breeek {
+    
+    border: 1px solid;
+    padding: 25px 14px;
+}
+h5.breek {
+    line-height: 23px;
+    letter-spacing: 1px;
+}
+.kjh {
+    margin-bottom: 22px;
+}
+.kjh img {
+    float: right;
+    padding-bottom: 5px !important;    
+}
+/********************************* responsive *******************************/
+
+/* ----------------- phn ---------------------*/
+@media only screen and (max-width: 767px) {
+	.hero_theme .et_pb_module {
+ width: 80px;
+    height: 77px;
+		position:unset;
+	}
+	.hero_theme .et_pb_column.et_pb_column_1_3 {
+    width: 33% !important;
+		position: relative !important;
+		top: -75px;
+}
+	.mn-2 {
+    left: 15px;
+}
+	.moon4, .moon5, .moon6, .moon7, .moon8, .moon9 {
+    position: absolute;
+    width: 80px;
+    height: 77px;
+}
+	.moon4, .moon6, .moon8 {
+    left: -35px;
+}
+.moon4 {
+    top: -128px!important;
+}
+.mn-1 {
+top: -48px !important;
+    left: 10px
+}
+	.mn-3 {
+		top: -48px !important;
+    left: 18px;
+}
+	
+	.moon_prt {
+    height: 460px;
+    padding-top: 0px;
+}
+	h4.cl_mn {
+		    left: 33px;
+    position: relative;
+    font-weight: 600;
+    top: -28px;
+    font-size: 16px;
+    color: #a5e9fc;
+}
+	.moon1 {
+    left: -9% !important;
+    top: -12px !important;
+}
+	.moon_prt a {
+    top: 25px;
+    font-size: 18px
+}
+	.moon-1 a, .moon-3 a {
+    position: relative;
+    top: 25px;
+}
+	.hm_pg_1 h3 {
+    font-size: 30px;
+}
+	h3.ut_yr {
+    padding-left: 0px;
+}
+	p.gt_mr {
+    padding-left: 0px;
+} 
+	.st_wd b {
+    font-size: 26px;
+	}
+	.goal_bt, .modif, .logline {
+    padding: 0 0px !important;
+}
+.moon4, .moon5, .moon6, .moon7, .moon8, .moon9 {
+	position: unset;
+	}
+	.hero_theme {
+    padding: 5px 0px 0px !important;
+}
+	.goal_bt .et_pb_column.et_pb_column_1_2, .modif .et_pb_column.et_pb_column_1_2, .logline .et_pb_column.et_pb_column_1_2 {
+    width: 50% !important;
+    position: relative;
+    top: -68px;
+}
+	.mn-4, .mn-6, .mn-8 {
+    left: -38px;
+}
+	.mn-5, .mn-7, .mn-9 {
+    left: 107px;
+}
+	.mn-6, .mn-7 {
+    top: -81px !important;
+}
+		.mn-8, .mn-9 {
+    top: -95px !important;
+}
+	.hundd h3 {
+    margin-top: 2px;
+    text-align: center;
+}
+	.et_mobile_menu {   
+    background: #2ea3f2 !important;
+}
+	.book_im .et_pb_image_0 {text-align: center !important; }
+	.book_im img { width: 60%;}
+    .book_im h3 { font-size: 34px;}
+    .book_im p { font-size: 17px;}
+	.book_im h5 a { font-size: 17px;}
+	.empty_sp { padding: 0px !important;}
+	.empty_sp .et_pb_row.et_pb_row_9 { padding: 0px !important;}
+	.lg-line h2 {
+    width: 100%;
+    font-size: 30px;
+	}
+	.lg-line h4 {
+    width: 100%;
+    font-size: 21px;
+	}
+	.lg_line1 h3 {font-size: 28px;}
+	.lg_line1 img {width: 100%;}
+	.dw-ebk h2 a {
+    margin-top: 0px;
+    font-size: 32px;
+    width: 100%;
+}
+	.dw-ebk h3 {
+    padding-left: 0px;
+    font-size: 32px;
+}
+	.bk_log_s4 img {position: unset !important;}
+	.pic_100 img {
+    position: unset;
+    width: 50%;
+}
+	.bk_log_s4 h2 {
+    top: -90px;
+    font-size: 26px;
+    left: 42%;
+}
+	.blck_txt p {
+    position: relative;
+    top: -41px;
+    left: 15px;
+}
+	.download_pop h3 {font-size: 21px;}
+	.download_pop p {padding-top: 0px;}
+	.pp_frm .wpcf7-submit { width: 45% !important;}
+	
+	
+	
+	
+	
+}	
+/*----------------------- phn end --------------------------*/
+	
+/************************************ responsive end ************************************/
